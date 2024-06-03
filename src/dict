@@ -1,0 +1,4 @@
+
+dicti = {'Barcelona-Cadiz': 'Barcelona', 'Betis-Valladolid': 'Real Betis', 'Elche-Espanyol': 'Draw', 'Mallorca-Villarreal': 'Draw', 'Rayo Vallecano-Sevilla': 'Draw', 'At. Madrid-Athletic Club': 'Draw', 'Real Sociedad-Celta': 'R. Sociedad', 'Osasuna-Real Madrid': 'Draw', 'Alaves-Ibiza': 'Deportivo Alaves', 'Leganes-Las Palmas': 'Las Palmas', 'Lugo-Eibar': 'Eibar', 'Ponferradina-Levante': 'Levante', 'Burgos-Albacete': 'Albacete', 'Andorra-Sporting': 'FC Andorra', 'Getafe-Valencia': 'Valencia'}
+for i in dicti:
+    print(i+": "+dicti[i])
